@@ -1,3 +1,2 @@
-x = input('"Yo niqqa type something" \n')
-print("if you typed " + str(x))
-print("you gay")
+x = input('Yo niqqa type something\n')
+print("if you typed " + str(x) + "\nyou gay")
